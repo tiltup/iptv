@@ -1,479 +1,333 @@
 #EXTM3U
-#EXTINF:-1,---SKANDINAVIA---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/384.ts
-#EXTINF:-1,NOR | NRK 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/399.ts
-#EXTINF:-1,NOR | NRK 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/400.ts
-#EXTINF:-1,NOR | Max HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/397.ts
-#EXTINF:-1,NOR | Discovery Investigation
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/398.ts
-#EXTINF:-1,NOR-DK-VFILM PREMIER
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/31.ts
-#EXTINF:-1,NOR-DK-VFILM ACTION
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/29.ts
-#EXTINF:-1,NOR-VFILM COMEDY
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/216.ts
-#EXTINF:-1,NOR-VIASAT FOTBOLL
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/19.ts
-#EXTINF:-1,NOR | TV6
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/390.ts
-#EXTINF:-1,NOR | TV4 Komedi
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/391.ts
-#EXTINF:-1,NOR | TV4 Fakta
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/393.ts
-#EXTINF:-1,NOR | TV3 Norge
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/392.ts
-#EXTINF:-1,NOR | TV2 ZEBRA
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/395.ts
-#EXTINF:-1,NOR | Fox
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/396.ts
-#EXTINF:-1,SWE | SVT1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/401.ts
-#EXTINF:-1,SWE | SVT2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/402.ts
-#EXTINF:-1,SWE | Kanal 11
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/406.ts
-#EXTINF:-1,SWE- TV10
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/210.ts
-#EXTINF:-1,SWE- 6 Eren
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/9.ts
-#EXTINF:-1,SWE | TV4
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/404.ts
-#EXTINF:-1,SWE | TV3 Sweden
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/403.ts
-#EXTINF:-1,SWE | Comedy Central
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/409.ts
-#EXTINF:-1,SWE- C MORE FIRST
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/441.ts
-#EXTINF:-1,SWE | C More Sport
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/408.ts
-#EXTINF:-1,SWE-  C More Live
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/186.ts
-#EXTINF:-1,SWE-C More Fotboll
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/20.ts
-#EXTINF:-1,SWE- C More Stars
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/190.ts
-#EXTINF:-1,SWE- C More Emotion
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/303.ts
-#EXTINF:-1,SWE- C MORE SERIES
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/25.ts
-#EXTINF:-1,SWE- C MORE HITS
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/24.ts
-#EXTINF:-1,SWE- Kanal 5
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/407.ts
-#EXTINF:-1,SWE | TV4 Film
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/405.ts
-#EXTINF:-1,DK- TV 2 SPORT HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/379.ts
-#EXTINF:-1,DK- TV 2 FRI HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/378.ts
-#EXTINF:-1,DK-TV3 SPORT 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/17.ts
-#EXTINF:-1,DK-TV3 SPORT 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/18.ts
-#EXTINF:-1,DK-TV3 Puls
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/12.ts
-#EXTINF:-1,DK-TV3 Denmark
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/11.ts
-#EXTINF:-1,DK-TV2 NEWS
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/8.ts
-#EXTINF:-1,DK-TV2 CHARLI
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/7.ts
-#EXTINF:-1,DK- TV2_ZULU
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/33.ts
-#EXTINF:-1,DK-TV 3+
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/14.ts
-#EXTINF:-1,DK- TV 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/373.ts
-#EXTINF:-1,DK- Nickelodeon DK / MTV Hits
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/372.ts
-#EXTINF:-1,DK- Nat Geo People (DK)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/371.ts
-#EXTINF:-1,DK- EUROSPORT 1 DK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/370.ts
-#EXTINF:-1,DK- EUROSPORT 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/377.ts
-#EXTINF:-1,DK-KANAL 5
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/15.ts
-#EXTINF:-1,DK-Kanal 4
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/16.ts
-#EXTINF:-1,DK-DR 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/4.ts
-#EXTINF:-1,DK-DR 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/5.ts
-#EXTINF:-1,DK- DR 3
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/374.ts
-#EXTINF:-1,DK- DR ULTRA
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/376.ts
-#EXTINF:-1,DK- DR K
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/375.ts
-#EXTINF:-1,DK-Disney XD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/3.ts
-#EXTINF:-1,DK-Disney Channel (D)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/2.ts
-#EXTINF:-1,DK- CANAL 9 DK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/13.ts
-#EXTINF:-1,DK- Nat Geo
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/34.ts
-#EXTINF:-1,---TURKEY---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/383.ts
-#EXTINF:-1,TR- TRT1 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/232.ts
-#EXTINF:-1,TR- ATV HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/231.ts
-#EXTINF:-1,TR- STAR TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/196.ts
-#EXTINF:-1,TR-SHOW TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/195.ts
-#EXTINF:-1,TR-KANAL D
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/197.ts
-#EXTINF:-1,TR- Fox HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/198.ts
-#EXTINF:-1,TR- TV 8 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/199.ts
-#EXTINF:-1,TR-KANAL 7
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/201.ts
-#EXTINF:-1,TR- SALON 1 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/207.ts
-#EXTINF:-1,TR- SALON 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/208.ts
-#EXTINF:-1,TR- SALON 3 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/209.ts
-#EXTINF:-1,TR-GIGAMAX TURK HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/382.ts
-#EXTINF:-1,TR- GIGAMAX YESILCAM HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/333.ts
-#EXTINF:-1,TR- GIGAMAX HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/331.ts
-#EXTINF:-1,TR- GIGAMAX 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/332.ts
-#EXTINF:-1,TR- FILMBOX ADRENALIN HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/252.ts
-#EXTINF:-1,TR- TGRT Haber
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/410.ts
-#EXTINF:-1,TR: ASPOR HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/243.ts
-#EXTINF:-1,TR- NTV SPOR
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/247.ts
-#EXTINF:-1,TR- NTV_HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/357.ts
-#EXTINF:-1,TR- BENGU TURK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/358.ts
-#EXTINF:-1,TR- LIG TV HD 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/204.ts
-#EXTINF:-1,TR- LIGTV 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/205.ts
-#EXTINF:-1,TR- CNN TURK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/206.ts
-#EXTINF:-1,TR- Tivibu Spor
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/285.ts
-#EXTINF:-1,TR- TİVİBU SPOR 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/355.ts
-#EXTINF:-1,TR- Smart Spor HD 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/283.ts
-#EXTINF:-1,TR: FILMBOX SCI-FI HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/354.ts
-#EXTINF:-1,TR-BEYAZ TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/202.ts
-#EXTINF:-1,TR: FILMBOX AKSIYON
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/257.ts
-#EXTINF:-1,TR- TRT COCUK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/223.ts
-#EXTINF:-1,TR- NUMBER ONE TURK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/218.ts
-#EXTINF:-1,---ARABIA---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/385.ts
-#EXTINF:-1,AR:ART_Hekayat1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/137.ts
-#EXTINF:-1,AR:ART_Hekayat2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/177.ts
-#EXTINF:-1,ART Cinema (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/59.ts
-#EXTINF:-1,AR- 2M Maroc
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/237.ts
-#EXTINF:-1,AR- AL AOULA TV MAROC
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/43.ts
-#EXTINF:-1,AR- Medi1 TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/52.ts
-#EXTINF:-1,AR- LDC
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/146.ts
-#EXTINF:-1,AR:OSN-Movies-HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/67.ts
-#EXTINF:-1,AR: OSN YAHALA HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/135.ts
-#EXTINF:-1,AR_Rotana_Masriya
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/175.ts
-#EXTINF:-1,AR:Rotana_cinema
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/179.ts
-#EXTINF:-1,AR:ASSADISSA
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/176.ts
-#EXTINF:-1,AR:AL_MAGHRIBIA
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/170.ts
-#EXTINF:-1,AR-OSN-ACTION
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/262.ts
-#EXTINF:-1,AR:Arriadia
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/174.ts
-#EXTINF:-1,AR:Tamazight
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/171.ts
-#EXTINF:-1,AR:Dubai-One
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/273.ts
-#EXTINF:-1,Al jazeera News
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/50.ts
-#EXTINF:-1,Al jazeera Doc (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/49.ts
-#EXTINF:-1,AL jazeera (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/51.ts
-#EXTINF:-1,AR- Assadissa Maroc
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/284.ts
-#EXTINF:-1,AR- Al Maghribya
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/151.ts
-#EXTINF:-1,Arrabiaa (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/42.ts
-#EXTINF:-1,Rotana Music (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/55.ts
-#EXTINF:-1,OTV (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/39.ts
-#EXTINF:-1,LBC (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/40.ts
-#EXTINF:-1,Future TV (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/36.ts
-#EXTINF:-1,BBC arabic (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/57.ts
-#EXTINF:-1,CBC Sofra (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/53.ts
-#EXTINF:-1,OSN Movie Action 2 (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/143.ts
-#EXTINF:-1,AR- TOYOR ALJANNAH
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/61.ts
-#EXTINF:-1,MBC Masr (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/66.ts
-#EXTINF:-1,MBC Drama (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/65.ts
-#EXTINF:-1,MBC 1 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/62.ts
-#EXTINF:-1,AR:MBC-2HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/153.ts
-#EXTINF:-1,AR-MBC3
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/139.ts
-#EXTINF:-1,AR- MBC 4
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/236.ts
-#EXTINF:-1,AR-MBC-BOLLYWOOD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/37.ts
-#EXTINF:-1,AR-Noor-Dubai
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/138.ts
-#EXTINF:-1,AR=Sama-Dubai
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/64.ts
-#EXTINF:-1,[AR]_Dubai TV HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/134.ts
-#EXTINF:-1,[AR]_Qatar
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/157.ts
-#EXTINF:-1,IR : VOA Persian 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/334.ts
-#EXTINF:-1,IR : Rubix TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/341.ts
-#EXTINF:-1,IR : Payame
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/337.ts
-#EXTINF:-1,IR : Irib Namayesh
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/339.ts
-#EXTINF:-1,IR : Irib 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/338.ts
-#EXTINF:-1,IR : Gem Kurd
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/335.ts
-#EXTINF:-1,IR : Gem Bollywood
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/340.ts
-#EXTINF:-1,IR : Gem TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/47.ts
-#EXTINF:-1,IR : TV Persia
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/56.ts
-#EXTINF:-1,IR : BBC Persian
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/63.ts
-#EXTINF:-1,IR : Persian Movie
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/44.ts
-#EXTINF:-1,IR- Al Alam News
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/173.ts
-#EXTINF:-1,AF- Payame Afghan TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/312.ts
-#EXTINF:-1,AF- Ariana TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/48.ts
-#EXTINF:-1,PK: ARY NEWS
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/263.ts
-#EXTINF:-1,IND: SONY MAX
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/344.ts
-#EXTINF:-1,IND: STAR PLUS
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/345.ts
-#EXTINF:-1,IND: ZEE CINEMA
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/147.ts
-#EXTINF:-1,IND: ZEE TV HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/172.ts
-#EXTINF:-1,IND: STAR GOLD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/266.ts
-#EXTINF:-1,AR-Kuwait-1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/267.ts
-#EXTINF:-1,BEIN MAX 1 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/349.ts
-#EXTINF:-1,BEIN MAX 2 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/350.ts
-#EXTINF:-1,Bein Sport 1 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/109.ts
-#EXTINF:-1,Bein Sport 2 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/110.ts
-#EXTINF:-1,Bein Sport 3 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/111.ts
-#EXTINF:-1,Bein Sport 4 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/112.ts
-#EXTINF:-1,Bein Sport 5 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/113.ts
-#EXTINF:-1,Bein Sport 6 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/118.ts
-#EXTINF:-1,Bein Sport 7 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/119.ts
-#EXTINF:-1,Bein Sport 8 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/120.ts
-#EXTINF:-1,Bein Sport 9 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/121.ts
-#EXTINF:-1,Bein Sport 10 HD (AR)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/122.ts
-#EXTINF:-1,---GERMANY---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/387.ts
-#EXTINF:-1,DE- Ard 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/368.ts
-#EXTINF:-1,DE: VOX HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/365.ts
-#EXTINF:-1,DE: KABEL 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/364.ts
-#EXTINF:-1,DE- SKY CINEMA COMEDY HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/381.ts
-#EXTINF:-1,DE- Sky Emotion
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/380.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/366.ts
-#EXTINF:-1,DE: Sky Hits
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/169.ts
-#EXTINF:-1,DE- Sky Cinema HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/85.ts
-#EXTINF:-1,DE- Sky Action HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/86.ts
-#EXTINF:-1,De: Sky Bundesliga 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/159.ts
-#EXTINF:-1,DE- SKY SELECT 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/104.ts
-#EXTINF:-1,De: Sky Sport 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/160.ts
-#EXTINF:-1,De: Sky Sport 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/161.ts
-#EXTINF:-1,DE: AXN HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/367.ts
-#EXTINF:-1,DE-  Disney XD HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/363.ts
-#EXTINF:-1,DE- EUROSPORT 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/77.ts
-#EXTINF:-1,DE- Zdf
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/84.ts
-#EXTINF:-1,DE-SKY FOX
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/89.ts
-#EXTINF:-1,DE- RTL 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/168.ts
-#EXTINF:-1,DE- RTL
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/167.ts
-#EXTINF:-1,DE- Pro 7 HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/81.ts
-#EXTINF:-1,DE- N24
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/163.ts
-#EXTINF:-1,DE-SUPER_RTL_HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/191.ts
-#EXTINF:-1,DE- Orf 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/106.ts
-#EXTINF:-1,DE- Orf 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/95.ts
-#EXTINF:-1,DE- NATIONAL GEO
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/90.ts
-#EXTINF:-1,---OTHERS---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/386.ts
-#EXTINF:-1,ARENA SPORT 1 SRB
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/434.ts
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/435.ts
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/436.ts
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/437.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/114.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/115.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/116.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/117.ts
-#EXTINF:-1,AL: SUPER SPORT 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/123.ts
-#EXTINF:-1,AL: SUPER SPORT 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/124.ts
-#EXTINF:-1,AL: SUPER SPORT 4
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/126.ts
-#EXTINF:-1,UK:SKY-Sport-1-HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/144.ts
-#EXTINF:-1,UK:Sky_Sports_2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/150.ts
-#EXTINF:-1,UK:SKY SPORTS 3  HD
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/433.ts
-#EXTINF:-1,UK:Sky_Sports_4
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/148.ts
-#EXTINF:-1,UK:Sky Movies Comedy
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/431.ts
-#EXTINF:-1,UK:Sky Movies Action
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/432.ts
-#EXTINF:-1,BBC 1 (UK)
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/92.ts
-#EXTINF:-1,USA -MelloTV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/98.ts
-#EXTINF:-1,USA - ESPN
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/10.ts
-#EXTINF:-1,RU-TV kab
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/286.ts
-#EXTINF:-1,RU-ABTO 24
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/278.ts
-#EXTINF:-1,RU: 1tv
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/280.ts
-#EXTINF:-1,RU: RUTV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/296.ts
-#EXTINF:-1,---KURDISH---
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/411.ts
-#EXTINF:-1,KURD-STERK TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/414.ts
-#EXTINF:-1,KURD-RONAHI TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/412.ts
-#EXTINF:-1,KURD-NEWS CHANNEL
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/415.ts
-#EXTINF:-1,KURD- ZAROK TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/419.ts
-#EXTINF:-1,KURD- Yasam Tv
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/413.ts
-#EXTINF:-1,KURD- Vin TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/422.ts
-#EXTINF:-1,KURD- TV 10
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/430.ts
-#EXTINF:-1,KURD- Speda TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/423.ts
-#EXTINF:-1,KURD- Rudaw TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/421.ts
-#EXTINF:-1,KURD- NRT 1
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/427.ts
-#EXTINF:-1,KURD- NRT 2
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/428.ts
-#EXTINF:-1,KURD- NEWROZ TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/420.ts
-#EXTINF:-1,KURD- Newline tv
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/425.ts
-#EXTINF:-1,KURD- MEDMUZIK
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/416.ts
-#EXTINF:-1,KURD- KNN
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/429.ts
-#EXTINF:-1,KURD- Kanal Urfa
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/418.ts
-#EXTINF:-1,KURD- CiHAN TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/424.ts
-#EXTINF:-1,KURD- ARTI TV
-http://gigasip.dyndns.tv:3838/live/technocomskype/redmosdns/417.ts
+#EXTINF:-1,XXX: PLAYBOY TV
+http://194.88.104.81:8000/live/Santos/Santos/6972.ts
+#EXTINF:-1,XXX: HOT
+http://194.88.104.81:8000/live/Santos/Santos/6973.ts
+#EXTINF:-1,XXX: Sextreme
+http://194.88.104.81:8000/live/Santos/Santos/6971.ts
+#EXTINF:-1,XXX: Penthouse
+http://194.88.104.81:8000/live/Santos/Santos/6950.ts
+#EXTINF:-1,XXX: Penthouse HD1
+http://194.88.104.81:8000/live/Santos/Santos/6970.ts
+#EXTINF:-1,XXX: VENUS
+http://194.88.104.81:8000/live/Santos/Santos/6977.ts
+#EXTINF:-1,XXX: Pink Erotic 3
+http://194.88.104.81:8000/live/Santos/Santos/6947.ts
+#EXTINF:-1,XXX: Pink Erotic 4
+http://194.88.104.81:8000/live/Santos/Santos/6948.ts
+#EXTINF:-1,XXX: PinkoTV
+http://194.88.104.81:8000/live/Santos/Santos/6946.ts
+#EXTINF:-1,XXX Jasmin TV
+http://194.88.104.81:8000/live/Santos/Santos/6963.ts
+#EXTINF:-1,XXX 1
+http://194.88.104.81:8000/live/Santos/Santos/6969.ts
+#EXTINF:-1,XXX 2
+http://194.88.104.81:8000/live/Santos/Santos/6967.ts
+#EXTINF:-1,XXX 3 ASIA
+http://194.88.104.81:8000/live/Santos/Santos/6966.ts
+#EXTINF:-1,XXX: 4
+http://194.88.104.81:8000/live/Santos/Santos/6949.ts
+#EXTINF:-1,XXX 5
+http://194.88.104.81:8000/live/Santos/Santos/6965.ts
+#EXTINF:-1,XXX 7 ASIA
+http://194.88.104.81:8000/live/Santos/Santos/6964.ts
+#EXTINF:-1,XXX 10 ASIA
+http://194.88.104.81:8000/live/Santos/Santos/6968.ts
+#EXTINF:-1,XXX: La France a Poil 1
+http://194.88.104.81:8000/live/Santos/Santos/6962.ts
+#EXTINF:-1,XXX: La France a Poil 2
+http://194.88.104.81:8000/live/Santos/Santos/6958.ts
+#EXTINF:-1,XXX: La France a Poil 3
+http://194.88.104.81:8000/live/Santos/Santos/6957.ts
+#EXTINF:-1,XXX: La France a Poil 4
+http://194.88.104.81:8000/live/Santos/Santos/6956.ts
+#EXTINF:-1,XXX: La France a Poil 5
+http://194.88.104.81:8000/live/Santos/Santos/6955.ts
+#EXTINF:-1,XXX: La France a Poil 6
+http://194.88.104.81:8000/live/Santos/Santos/6954.ts
+#EXTINF:-1,XXX: La France a Poil 7
+http://194.88.104.81:8000/live/Santos/Santos/6953.ts
+#EXTINF:-1,XXX: La France a Poil 8
+http://194.88.104.81:8000/live/Santos/Santos/6952.ts
+#EXTINF:-1,XXX: La France a Poil 9
+http://194.88.104.81:8000/live/Santos/Santos/6951.ts
+#EXTINF:-1,XXX: La France a Poil 10
+http://194.88.104.81:8000/live/Santos/Santos/6961.ts
+#EXTINF:-1,XXX: La France a Poil 11
+http://194.88.104.81:8000/live/Santos/Santos/6960.ts
+#EXTINF:-1,XXX: La France a Poil 12
+http://194.88.104.81:8000/live/Santos/Santos/6959.ts
+#EXTINF:-1,[XXX] Adult S FULL HD 15
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18041.ts
+#EXTINF:-1,[XXX] BoyBoy
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18053.ts
+#EXTINF:-1,[XXX] Cento X Cento
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18052.ts
+#EXTINF:-1,[XXX] Dorcel HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18051.ts
+#EXTINF:-1,[XXX] Evil Angel TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18050.ts
+#EXTINF:-1,[XXX] Exotica TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18049.ts
+#EXTINF:-1,[XXX] Hustler HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18048.ts
+#EXTINF:-1,[XXX] Pinko TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18047.ts
+#EXTINF:-1,[XXX] Red Light HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18046.ts
+#EXTINF:-1,[XXX] Satisfaction
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18045.ts
+#EXTINF:-1,[XXX] Sextosenso
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/18044.ts
+#EXTINF:-1,XXX: Adult 4K: VOD1
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23380.ts
+#EXTINF:-1,XXX: Adult 4K: VOD2
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23377.ts
+#EXTINF:-1,XXX: Adult 4K: VOD3
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23376.ts
+#EXTINF:-1,XXX: Adult 4K: VOD4
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23375.ts
+#EXTINF:-1,XXX: Adult 4K: VOD5
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23374.ts
+#EXTINF:-1,XXX: Adult 4K: VOD6
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23373.ts
+#EXTINF:-1,XXX: Adult 4K: VOD7
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23372.ts
+#EXTINF:-1,XXX: Adult 4K: VOD8
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23371.ts
+#EXTINF:-1,XXX: Adult 4K: VOD9
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23370.ts
+#EXTINF:-1,XXX: Adult 4K: VOD10
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23379.ts
+#EXTINF:-1,XXX: Adult 4K: VOD11
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23378.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 1 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23369.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 2 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23367.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 3 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23366.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 4 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23365.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 5 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23364.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 6 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23363.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 7 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23362.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 8 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23361.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 9 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23360.ts
+#EXTINF:-1,XXX: ADULT HOTCLUB 10 HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23368.ts
+#EXTINF:-1,XXX: AnySex
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23359.ts
+#EXTINF:-1,XXX: B HOT HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23358.ts
+#EXTINF:-1,XXX: Babes 1
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23357.ts
+#EXTINF:-1,XXX: Babes 2
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23346.ts
+#EXTINF:-1,XXX: Babes 3
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23344.ts
+#EXTINF:-1,XXX: Babes 4
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23343.ts
+#EXTINF:-1,XXX: Babes 5
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23342.ts
+#EXTINF:-1,XXX: Babes 6
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23341.ts
+#EXTINF:-1,XXX: Babes 7
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23340.ts
+#EXTINF:-1,XXX: Babes 8
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23339.ts
+#EXTINF:-1,XXX: Babes 9
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23338.ts
+#EXTINF:-1,XXX: Babes 10
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23356.ts
+#EXTINF:-1,XXX: Babes 11
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23355.ts
+#EXTINF:-1,XXX: Babes 12
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23354.ts
+#EXTINF:-1,XXX: Babes 13
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23353.ts
+#EXTINF:-1,XXX: Babes 14
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23352.ts
+#EXTINF:-1,XXX: Babes 15
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23351.ts
+#EXTINF:-1,XXX: Babes 16
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23350.ts
+#EXTINF:-1,XXX: Babes 17
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23349.ts
+#EXTINF:-1,XXX: Babes 18
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23348.ts
+#EXTINF:-1,XXX: Babes 19
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23347.ts
+#EXTINF:-1,XXX: Babes 20
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23345.ts
+#EXTINF:-1,XXX: BIZARE TRING
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23337.ts
+#EXTINF:-1,XXX: Blue Hustler TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23336.ts
+#EXTINF:-1,XXX: BRAZZERS
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23335.ts
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23334.ts
+#EXTINF:-1,XXX: ButGo
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23333.ts
+#EXTINF:-1,XXX: CANDY
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23332.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23331.ts
+#EXTINF:-1,XXX: CHANNEL X 1 (digitalb)
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23330.ts
+#EXTINF:-1,XXX: CHANNEL X 2 (digitalb)
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23329.ts
+#EXTINF:-1,XXX: CHANNEL X 3 (digitalb)
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23328.ts
+#EXTINF:-1,XXX: DAUGHTER SWAP
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23327.ts
+#EXTINF:-1,XXX: DORCEL
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23326.ts
+#EXTINF:-1,XXX: DUSK
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23325.ts
+#EXTINF:-1,XXX: ENJOY PREMIUM
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23324.ts
+#EXTINF:-1,XXX: EROTIC 1
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23323.ts
+#EXTINF:-1,XXX: EROTIC 2
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23322.ts
+#EXTINF:-1,XXX: EROTIC 3
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23321.ts
+#EXTINF:-1,XXX: EROTIC 4
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23320.ts
+#EXTINF:-1,XXX: EROTIC 5
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23319.ts
+#EXTINF:-1,XXX: EROTIC 6
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23318.ts
+#EXTINF:-1,XXX: EROTIC 7
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23317.ts
+#EXTINF:-1,XXX: EROTIC 8
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23316.ts
+#EXTINF:-1,XXX: EROXXX
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23315.ts
+#EXTINF:-1,XXX: EXOTICA TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23314.ts
+#EXTINF:-1,XXX: FAKE TAXI
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23313.ts
+#EXTINF:-1,XXX: FRENCHLOVER
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23312.ts
+#EXTINF:-1,XXX: HONEY HOT HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23311.ts
+#EXTINF:-1,XXX: HUSTLER TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23310.ts
+#EXTINF:-1,XXX: HUSTLERXXX
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23309.ts
+#EXTINF:-1,XXX: JASMIN.TV HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23308.ts
+#EXTINF:-1,XXX: Lethal Hardcore
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23307.ts
+#EXTINF:-1,XXX: Maiden van Holland
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23306.ts
+#EXTINF:-1,XXX: MOFOS
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23305.ts
+#EXTINF:-1,XXX: ORGY CHANNEL
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23304.ts
+#EXTINF:-1,XXX: ORGY CHANNELX
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23303.ts
+#EXTINF:-1,XXX: PASSIEXXX
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23302.ts
+#EXTINF:-1,XXX: PENTHOUSE EUROPE
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23301.ts
+#EXTINF:-1,XXX: PENTHOUSE HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23300.ts
+#EXTINF:-1,XXX: PENTHOUSE.
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23299.ts
+#EXTINF:-1,XXX: PINK O
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23298.ts
+#EXTINF:-1,XXX: PlayBoy TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23297.ts
+#EXTINF:-1,XXX: PLAYBOY TV HD  18
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23296.ts
+#EXTINF:-1,XXX: PlayBoy.Tv
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23295.ts
+#EXTINF:-1,XXX: PLEASURE
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23294.ts
+#EXTINF:-1,XXX: PRIVATE
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23293.ts
+#EXTINF:-1,XXX: PRIVATE HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23292.ts
+#EXTINF:-1,XXX: Reality Sex
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23291.ts
+#EXTINF:-1,XXX: RETRO X
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23290.ts
+#EXTINF:-1,XXX: RK HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23289.ts
+#EXTINF:-1,XXX: RUSSKAYA NOCH
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23288.ts
+#EXTINF:-1,XXX: SCT
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23381.ts
+#EXTINF:-1,XXX: Sex Channel
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23287.ts
+#EXTINF:-1,XXX: SEX SEX HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23286.ts
+#EXTINF:-1,XXX: SEX STATION
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23285.ts
+#EXTINF:-1,XXX: SExTO SENSO
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23284.ts
+#EXTINF:-1,XXX: SIRINA
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23283.ts
+#EXTINF:-1,XXX: SIRINA 1
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23282.ts
+#EXTINF:-1,XXX: SIRINA 2
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23281.ts
+#EXTINF:-1,XXX: SIRINA 3
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23280.ts
+#EXTINF:-1,XXX: SPICE TV
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23279.ts
+#EXTINF:-1,XXX: SUPERONE
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23278.ts
+#EXTINF:-1,XXX: VENUS HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23277.ts
+#EXTINF:-1,XXX: XXL
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23276.ts
+#EXTINF:-1,XXX: XXL HD
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23275.ts
+#EXTINF:-1,XXX: XXX STARS
+http://iptv.iptvthebest.net:15000/live/292691b5a729eb6/0805fa4b55cec3f/23274.ts
+#EXTINF:-1,CentoXCento Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/206.ts
+#EXTINF:-1,6 Senso Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/1282.ts
+#EXTINF:-1,Redlight TV
+http://cm-group.ddns.net:8000/live/saverio/saverio/1280.ts
+#EXTINF:-1,Hustler Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/1279.ts
+#EXTINF:-1,Penthouse 2 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/205.ts
+#EXTINF:-1,Dorcel Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/837.ts
+#EXTINF:-1,Jasmin Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/1277.ts
+#EXTINF:-1,Pinko Tv
+http://cm-group.ddns.net:8000/live/saverio/saverio/838.ts
+#EXTINF:-1,Hot Club HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/1281.ts
+#EXTINF:-1,Hot Club 2 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/2760.ts
+#EXTINF:-1,Hot Club 3 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/209.ts
+#EXTINF:-1,Hot Club 4 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/210.ts
+#EXTINF:-1,Hot Club 5 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/2761.ts
+#EXTINF:-1,Hot Club 6 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/212.ts
+#EXTINF:-1,Hot Club 7 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/208.ts
+#EXTINF:-1,Hot Club 8 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/2766.ts
+#EXTINF:-1,Hot Club 9 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/215.ts
+#EXTINF:-1,Hot Club 10 HD
+http://cm-group.ddns.net:8000/live/saverio/saverio/2772.ts
